@@ -1,8 +1,8 @@
 {
-  "name": "@axetroy/blog",
+  "name": "@aifact/blog",
   "version": "0.1.2",
   "private": true,
-  "homepage": "http://www.axetroy.xyz",
+  "homepage": "https://usblog.vercel.app",
   "keywords": [],
   "dependencies": {
     "@ant-design/icons": "4.7.0",
